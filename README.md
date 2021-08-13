@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jianbin97
+- 👋 Hi, I’m Jianbin
 - 👀 I’m interested in NLP and Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Blockchain and Defi
 - 💞️ I’m looking to collaborate on anything challenging and exciting
 
 <!---
